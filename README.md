@@ -3,9 +3,9 @@
 
 ---
 
-I am currently a third-year Theoretical Computer Science student at Jagiellonian University in Kraków.
+🎓 I am currently a third-year Theoretical Computer Science student at Jagiellonian University in Kraków.
 
-I have a strong passion for problem solving and software development, I'm always improving my skills with every new course or project.
+ 🧩 I have a strong passion for problem solving and software development, I'm always improving my skills with every new course or project.
 
 ---
 
@@ -18,8 +18,8 @@ I have a strong passion for problem solving and software development, I'm always
 ---
 
 ## 🚀 Open to Opportunities
-I’m currently looking for internship or job opportunities in software development.  
-Reach me at: [bbyzdev@gmail.com](mailto:bbyzdev@gmail.com)
+💻 I’m currently looking for internship or job opportunities in software development.  
+✉️ Reach me at: [bbyzdev@gmail.com](mailto:bbyzdev@gmail.com)
 
 ---
 
